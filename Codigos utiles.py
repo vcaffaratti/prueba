@@ -34,3 +34,11 @@
 
 #git commit -m "comit inicial" # con esto comprometemos los archivos que estaban agregados, se incluye un comentario entre parentesis
 #rm archivo.txt #esto lo eliminaria
+
+
+
+#como hacr un  merge de primer b en segundo b https://stackabuse.com/git-merge-branch-into-master/
+
+#me posiciono en segundo b y hago
+
+#git merge primer b
